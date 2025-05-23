@@ -1,6 +1,10 @@
 # sqlinjection
 Exploiting SQL Injection vulnerability
 
+NAME : VIRUMAA HARISH M
+
+REG : 212223230246
+
 # AIM:
 To exploit SQL Injection vulnerability using Multidae web application in Metasploitable2
 
